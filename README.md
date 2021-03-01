@@ -1,1 +1,3 @@
 # auto-assign
+
+auto-assignのテストリポジトリ
