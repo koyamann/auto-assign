@@ -8,6 +8,7 @@ addAssignees: author
 reviewers:
   - koyamann/mp-programmers
   - /mp-programmers
+  - koyamann
 
 # Number of reviewers has no impact on Github teams
 # Set 0 to add all the reviewers (default: 0)
